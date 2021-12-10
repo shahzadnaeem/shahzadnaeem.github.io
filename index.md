@@ -8,10 +8,12 @@ Giving it a try this year. Started late so had to catch up first.
 
 Gotta catch up ...!
 
+My answers are not in the style of the top ranked players - 👴😂
+
 ### Day 9
 
 Finally caught up. A relatively simple one after my Day 8 epic!
 
 ### Day 10
 
-Quite simple, but got caught out in part 2 by not using **longs** and getting -ve values that meant I gave the wrong answer.
+Quite simple, but got caught out in part 2 by not using **longs** and getting negative values which meant I gave the wrong answer.
