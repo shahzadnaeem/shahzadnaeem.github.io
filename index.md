@@ -20,5 +20,8 @@ Quite simple, but got caught out in part 2 by not using **longs** and getting ne
 
 ### Days 12 - 17 Delayed by building an awesome **fence** - 🤺 not that kind!
 
+[awesome fence](images/fence.jpg)
+
 ### Day 17 - Resume Day 12
 
+Ok, where was I...
