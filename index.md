@@ -17,3 +17,8 @@ Finally caught up. A relatively simple one after my Day 8 epic!
 ### Day 10
 
 Quite simple, but got caught out in part 2 by not using **longs** and getting negative values which meant I gave the wrong answer.
+
+### Days 12 - 17 Delayed by building an awesome **fence** - 🤺 not that kind!
+
+### Day 17 - Resume Day 12
+
