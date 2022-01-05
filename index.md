@@ -25,3 +25,9 @@ Quite simple, but got caught out in part 2 by not using **longs** and getting ne
 ### Day 17 - Resume Day 12
 
 Ok, where was I...
+
+### Day 22 - Managed to get Day 14 part 1 done
+
+And I'm done for this year!
+
+Should maybe try some more but I also have other stuff to do...
